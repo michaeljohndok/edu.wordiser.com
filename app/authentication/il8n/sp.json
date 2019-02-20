@@ -236,6 +236,8 @@
         "Update": "Actualizar",
         "RESET": "REINICIAR",
         "TITLE": "Perfil",
+        "Company_id": "Company id",
+        "Join_compnay": "Join compnay",
         "NAME":
         {
             "LABEL": "Nombre",

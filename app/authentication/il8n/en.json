@@ -225,6 +225,8 @@
         "Receive_email_notifications": "Receive email notifications",
         "Update": "Update",
         "RESET": "RESET",
+        "Company_id": "Company id",
+        "Join_compnay": "Join compnay",
         "TITLE": "Profile",
         "NAME": {
             "LABEL": "name",
