@@ -1,13 +1,16 @@
 {
     "HOME": {
-        "STUDY":"¡ESTUDIA AHORA!",
-        "COURSES":"CURSOS",
+        "STUDY":"¡REVISE AHORA!",
+        "ADMIN":"ADMINISTRADOR",
+        "COURSES":"DIRECTORIO DE CURSOS",
         "REFERENCE":"REFERENCIA",
         "STUDY_NOTES":"NOTAS DE ESTUDIO",
         "MY_PROGRESS":"MI PROGRESO",
         "PROGRESS":"PROGRESS",
         "WORKSHEETS":"WORKSHEETS",
-        "MANAGER":"MANAGER",
+        "MANAGER":"DIRECTOR DE CLASES Y CURSOS",
+        "MY_LEARNING":"MI APRENDIZAJE",
+        "CONTENT_CREATOR":"CREADOR DE CONTENIDO",
         "aaaa":"aaaa"
     },
     "MENU": {
