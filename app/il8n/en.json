@@ -1,5 +1,6 @@
 {
     "ADMIN": {
+        "NOTICES":"NOTICES",
         "HELP":"HELP",
         "go_to_home_page":"go to home page",
         "Next_unit":"Next unit,",
