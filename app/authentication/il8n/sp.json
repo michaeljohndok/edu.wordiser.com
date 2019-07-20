@@ -47,13 +47,13 @@
         "EMAIL":
         {
             "LABEL": "Correo electrónico",
-            "PLEASE_ENTER": "Por favor introduzca su correo electrónico.",
+            "PLEASE_ENTER": "Por favor introduzca su correo electrónico!",
             "PLEASE_VALID": "Por favor, introduce una dirección de correo electrónico válida."
         },
         "PASSWORD":
         {
             "LABEL": "Contraseña",
-            "PLEASE_ENTER": "Por favor ingrese su contraseña."
+            "PLEASE_ENTER": "Por favor ingrese su contraseña!"
         },
         "REMEMBER": "Recuérdame",
         "FORGOT": "¿Se te olvidó tu contraseña?",
